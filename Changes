@@ -1,4 +1,9 @@
 Revision history for Bundle-Lingua-PT
 
+0.02  Fri Aug 12 19:35:00 2005
+	- Added two new modules:
+          Lingua::Identify
+          Lingua::PT::Speaker
+
 0.01  Thu Dec 24 15:18:00 2004
         - first version
