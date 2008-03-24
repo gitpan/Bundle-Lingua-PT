@@ -1,9 +1,15 @@
 Revision history for Bundle-Lingua-PT
 
+0.03  Mon Mar 24 22:18:00 2008
+	- Added new modules:
+		Lingua::Jspell
+		Text::WordGrams
+		Tie::Ispell
+
 0.02  Fri Aug 12 19:35:00 2005
 	- Added two new modules:
-          Lingua::Identify
-          Lingua::PT::Speaker
+		Lingua::Identify
+		Lingua::PT::Speaker
 
 0.01  Thu Dec 24 15:18:00 2004
         - first version

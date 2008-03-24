@@ -1,6 +1,6 @@
 package Bundle::Lingua::PT;
 
-$VERSION = '0.02';
+$VERSION = '0.03';
 
 =head1 NAME
 
@@ -22,6 +22,8 @@ If you think some useful module is missing let us know.
 =head1 CONTENTS
 
 Text::Ngram
+
+Text::WordGrams
 
 Text::Affixes
 
@@ -50,6 +52,10 @@ Lingua::PT::ProperNames
 Lingua::PT::Words2Nums
 
 Lingua::PT::Speaker
+
+Lingua::Jspell
+
+Tie::Ispell
 
 =head1 AUTHOR
 
