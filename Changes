@@ -1,5 +1,9 @@
 Revision history for Bundle-Lingua-PT
 
+0.04  September 3, 2008
+        - Removed the tilde on my name, from Makefile.PL.
+          Was generating some weird results on VMS and Solaris.
+
 0.03  Mon Mar 24 22:18:00 2008
 	- Added new modules:
 		Lingua::Jspell

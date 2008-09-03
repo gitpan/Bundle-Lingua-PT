@@ -1,11 +1,11 @@
 --- #YAML:1.0
 name:                Bundle-Lingua-PT
-version:             0.03
+version:             0.04
 abstract:            install a set of useful modules for Natural
 license:             ~
 author:              
-    - Alberto Simões <ambs@cpan.org> José Castro <cog@cpan.org>
-generated_by:        ExtUtils::MakeMaker version 6.43_01
+    - Alberto Simoes <ambs@cpan.org> Jose Castro <cog@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.44
 distribution_type:   module
 requires:     
     Test::More:                    0

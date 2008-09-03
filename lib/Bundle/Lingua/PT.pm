@@ -1,6 +1,6 @@
 package Bundle::Lingua::PT;
 
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 =head1 NAME
 

@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME                => 'Bundle::Lingua::PT',
-    AUTHOR              => 'Alberto Simões <ambs@cpan.org> José Castro <cog@cpan.org>',
+    AUTHOR              => 'Alberto Simoes <ambs@cpan.org> Jose Castro <cog@cpan.org>',
     VERSION_FROM        => 'lib/Bundle/Lingua/PT.pm',
     ABSTRACT_FROM       => 'lib/Bundle/Lingua/PT.pm',
     PL_FILES            => {},
